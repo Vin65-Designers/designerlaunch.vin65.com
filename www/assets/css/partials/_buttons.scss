@@ -31,12 +31,12 @@ button {
 	}
 
 	&.altBtn, &.altModalBtn, &.altLargeBtn{
-		@include secondButtonColor;
-		border: 1px solid $secondBoxShadowColor;
+		@include altButtonColor;
+		border: 1px solid $altBoxShadowColor;
 		border-radius: 3px;
-		box-shadow: inset 0 1px 0 0 $secondBoxShadowColor;
+		box-shadow: inset 0 1px 0 0 $altBoxShadowColor;
 		text-decoration: none;
-		text-shadow: 0 -1px 0 $secondButtonText;
+		text-shadow: 0 -1px 0 $altButtonText;
 		vertical-align: middle;
 		-webkit-tap-highlight-color: rgba(0,0,0,0);
 		
@@ -47,8 +47,8 @@ button {
 		}
 
 		&:hover, &:active{
-			@include secondButtonHover;
-			box-shadow: inset 0 1px 0 0 $secondBoxShadowColor;
+			@include altButtonHover;
+			box-shadow: inset 0 1px 0 0 $altBoxShadowColor;
 		}
 	}
 }
@@ -83,12 +83,12 @@ a{
 	}
 
 	&.linkAltBtn, &.modalLinkAltBtn, &.modalLinkAltBtn{
-		@include secondButtonColor;
-		border: 1px solid $secondBoxShadowColor;
+		@include altButtonColor;
+		border: 1px solid $altBoxShadowColor;
 		border-radius: 3px;
-		box-shadow: inset 0 1px 0 0 $secondBoxShadowColor;
+		box-shadow: inset 0 1px 0 0 $altBoxShadowColor;
 		text-decoration: none;
-		text-shadow: 0 -1px 0 $secondButtonText;
+		text-shadow: 0 -1px 0 $altButtonText;
 		vertical-align: middle;
 		-webkit-tap-highlight-color: rgba(0,0,0,0);
 		
@@ -99,8 +99,8 @@ a{
 		}
 
 		&:hover, &:active{
-			@include secondButtonHover;
-			box-shadow: inset 0 1px 0 0 $secondBoxShadowColor;
+			@include altButtonHover;
+			box-shadow: inset 0 1px 0 0 $altBoxShadowColor;
 		}
 	}
 
