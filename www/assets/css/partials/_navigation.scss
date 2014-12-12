@@ -37,6 +37,10 @@
 			position: absolute;
 			top: 32px;
 			width: 180px;
+			.v65-selected{
+				color: $leftNavSelected;
+				font-weight: bold;
+			}
 		}
 	}
 
@@ -129,7 +133,7 @@
 	}
 
 	.v65-selected{
-		color: $leftNavSelected;
+		color: $navSelected;
 		font-weight: bold;
 	}
 

@@ -1,0 +1,10 @@
+2014-11-19 13:38:22 overwrite assets/css/screen.min.css 
+2014-11-19 13:39:05 overwrite assets/css/screen.min.css 
+2014-11-19 14:01:21 overwrite assets/css/screen.min.css 
+2014-11-19 14:02:50 overwrite assets/css/screen.min.css 
+2014-11-19 14:05:25 overwrite assets/css/screen.min.css 
+2014-11-19 14:06:00 overwrite assets/css/screen.min.css 
+2014-11-19 14:07:13     error assets/css/screen.min.scss (Line 14 of assets/css/partials/_header.scss: Undefined variable: "$userToolsColor".)
+2014-11-19 14:07:13 overwrite assets/css/screen.min.css 
+2014-11-19 14:07:52 overwrite assets/css/screen.min.css 
+2014-11-19 15:36:04 overwrite assets/css/screen.min.css 
